@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Web applications with React.js and blockchain solutions with Solidity.<br><br>👯 I’m looking to collaborate on<br>Blockchain or full-stack JavaScript projects.<br><br>🤝 I’m looking for help with<br>Advanced Ethereum technologies.<br><br>🌱 I’m currently learning<br>Performance optimization and Web3 tools.<br><br>💬 Ask me about<br>React.js, Node.js, and blockchain development.<br><br>⚡ Fun fact<br>I built my first app during a summer internship, and I’ve been hooked ever since!
+🔭 I’m currently working on<br>Web applications with React.js , Node.js and blockchain solutions.<br><br>👯 I’m looking to collaborate on<br>full-stack JavaScript or Blockchain projects.<br><br>🤝 I’m looking for help with<br>Advanced Ethereum technologies.<br><br>🌱 I’m currently learning<br>Performance optimization and Web3 tools.<br><br>💬 Ask me about<br>React.js, Node.js, and blockchain development.<br><br>⚡ Fun fact<br>I built my first app during a summer internship, and I’ve been hooked ever since!
 
 
 ## 🌐 Socials:

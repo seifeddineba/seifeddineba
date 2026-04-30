@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm seif</h1>
-<h3 align="center">A passionate Full-Stack JavaScript Developer developer from Tunisia</h3>
+<h3 align="center">A passionate Full-Stack JavaScript Developer</h3>
 <p>💫 About Me:</p>
 🔭 I’m currently working on<br>Web applications with React.js , Node.js and blockchain solutions.<br><br>👯 I’m looking to collaborate on<br>full-stack JavaScript or Blockchain projects.<br><br>🤝 I’m looking for help with<br>Advanced Ethereum technologies.<br><br>🌱 I’m currently learning<br>Performance optimization and Web3 tools.<br><br>💬 Ask me about<br>React.js, Node.js, and blockchain development.<br><br>⚡ Fun fact<br>I built my first app during a summer internship, and I’ve been hooked ever since!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeddineba&label=Profile%20views&color=0e75b6&style=flat" alt="seifeddineba" /> </p>

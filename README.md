@@ -6,12 +6,17 @@
 <p>💫 About Me:</p>
 🔭 I’m currently working on<br>Web applications with React.js , Node.js and blockchain solutions.<br><br>👯 I’m looking to collaborate on<br>full-stack JavaScript or Blockchain projects.<br><br>🤝 I’m looking for help with<br>Advanced Ethereum technologies.<br><br>🌱 I’m currently learning<br>Performance optimization and Web3 tools.<br><br>💬 Ask me about<br>React.js, Node.js, and blockchain development.<br><br>⚡ Fun fact<br>I built my first app during a summer internship, and I’ve been hooked ever since!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeddineba&label=Profile%20views&color=0e75b6&style=flat" alt="seifeddineba" /> </p>
-
+<
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifeddineba" alt="seifeddineba" /></a> </p>
+
+<h3 align="left">My Portfolio:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/seifeddineba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seifeddineba/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/seifeddineba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seifeddineba/" height="30" width="40" /></a>
+<a href="https://portfolio-seifeddineba.vercel.app" target="blank"><img align="center" src="https://res.cloudinary.com/dnmrpeoxj/image/upload/q_auto/f_auto/v1777676310/logo_aqmtxn.png" alt="https://portfolio-seifeddineba.vercel.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

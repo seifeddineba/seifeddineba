@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack JavaScript Developer building modern web and blockchain applications</h3>
 
 <p align="center">
-  <a href="https://portfolio-seifeddineba.vercel.app"><strong>Portfolio</strong></a>
+  <a href="https://seifba.dev/"><strong>Portfolio</strong></a>
   ·
   <a href="https://www.linkedin.com/in/seifeddineba/"><strong>LinkedIn</strong></a>
 </p>
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-seifeddineba.vercel.app">Explore my work</a>
+  <a href="https://seifba.dev/projects">Explore my work</a>
   ·
   <a href="https://www.linkedin.com/in/seifeddineba/">Let's connect</a>
 </p>
